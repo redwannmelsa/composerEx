@@ -1,0 +1,17 @@
+{
+  "name": "redwa/tp-library-v2-mvc",
+  "autoload": {
+    "psr-4": {
+      "Controller\\": "controller/",
+      "Model\\": "model/",
+      "ModelClasses\\": "model/classes/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Redwann",
+      "email": "redwannmelsa@gmail.com"
+    }
+  ],
+  "require": {}
+}
